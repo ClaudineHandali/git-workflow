@@ -1,6 +1,3 @@
-def main():
-    print("Hello from git-workflow!")
-
-
-if __name__ == "__main__":
-    main()
+x = 1 + 2
+y = 3 + 4
+print(x + y)
